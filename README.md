@@ -16,7 +16,7 @@ A simple conversational AI agent that answers questions about Thoughtful AI usin
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/thoughtful-ai-support-agent.git  
+git clone https://github.com/masonomare1/thoughtful-ai-support-agent.git  
 cd thoughtful-ai-support-agent  
 
 Install dependencies:
